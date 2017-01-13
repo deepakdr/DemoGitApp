@@ -9,8 +9,8 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <asp:TextBox ID="txtName" runat="server"></asp:TextBox>
-        <asp:Button ID="btnGreet" runat="server" Text="Say Hello" />
+        <asp:TextBox ID="txtName" runat="server" Text="Hello"></asp:TextBox>
+        <asp:Button ID="btnGreet" runat="server" Text="Greet WM!" />
     </div>
     </form>
 </body>
