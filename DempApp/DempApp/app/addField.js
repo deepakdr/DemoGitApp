@@ -1,1 +1,1 @@
-﻿
+﻿alert("the page has loaded")
